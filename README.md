@@ -1,2 +1,2 @@
 # ELFII-Blank-Card
-ELF II blank card
+This is a KiCad blank card template for any new cards
